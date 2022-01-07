@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = nicholas.alfa@hotmail.co.uk
+	name = Nick Alfa
